@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = laylaibrahim99@outlook.com
+	name = Layla Ibrahim
